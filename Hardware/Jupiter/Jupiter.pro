@@ -1,4 +1,4 @@
-update=Tue 31 Jul 2018 03:25:58 PM CDT
+update=Tue 31 Jul 2018 04:07:57 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,5 +58,9 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-[general]
-version=1
+LibName30=custom-parts/libraries/stm32f070cbt6
+LibName31=custom-parts/libraries/MIC2026
+LibName32=custom-parts/libraries/KiCADinfo_RPi-modules
+LibName33=custom-parts/libraries/enc28j60
+LibName34=custom-parts/libraries/cy7c65632
+LibName35=custom-parts/libraries/503182-1852

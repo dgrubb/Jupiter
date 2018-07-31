@@ -1,4 +1,4 @@
-update=Tue 31 Jul 2018 04:07:57 PM CDT
+update=Tue 31 Jul 2018 04:25:25 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,4 @@ LibName32=custom-parts/libraries/KiCADinfo_RPi-modules
 LibName33=custom-parts/libraries/enc28j60
 LibName34=custom-parts/libraries/cy7c65632
 LibName35=custom-parts/libraries/503182-1852
+LibName36=custom-parts/libraries/MP2149

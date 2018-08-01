@@ -721,4 +721,56 @@ Wire Wire Line
 Wire Wire Line
 	17650 7550 18000 7550
 Connection ~ 17900 6800
+Text GLabel 19400 7250 2    60   Output ~ 0
+LEDA
+Text GLabel 19400 7350 2    60   Output ~ 0
+LEDB
+Text GLabel 19400 7550 2    60   Output ~ 0
+TPIN+
+Text GLabel 19400 7650 2    60   Output ~ 0
+TPIN-
+Text GLabel 19400 7850 2    60   Output ~ 0
+TPOUT+
+Text GLabel 19400 7950 2    60   Output ~ 0
+TPOUT-
+Wire Wire Line
+	19400 7250 19300 7250
+Wire Wire Line
+	19400 7350 19300 7350
+Wire Wire Line
+	19400 7550 19300 7550
+Wire Wire Line
+	19400 7650 19300 7650
+Wire Wire Line
+	19400 7850 19300 7850
+Wire Wire Line
+	19400 7950 19300 7950
+Text GLabel 19900 8350 2    60   Output ~ 0
+MISO
+Text GLabel 19900 8250 2    60   Input ~ 0
+MOSI
+Text GLabel 19900 8150 2    60   Input ~ 0
+SCLK
+Text GLabel 19900 8650 2    60   Input ~ 0
+INT
+Wire Wire Line
+	19900 8650 19300 8650
+Wire Wire Line
+	19900 8350 19300 8350
+Wire Wire Line
+	19900 8250 19300 8250
+Wire Wire Line
+	19900 8150 19300 8150
+Wire Wire Line
+	19450 9000 19450 8650
+Connection ~ 19450 8650
+Wire Wire Line
+	19550 9000 19550 8350
+Connection ~ 19550 8350
+Wire Wire Line
+	19650 9000 19650 8250
+Connection ~ 19650 8250
+Wire Wire Line
+	19750 9000 19750 8150
+Connection ~ 19750 8150
 $EndSCHEMATC

@@ -701,4 +701,54 @@ Wire Wire Line
 Wire Wire Line
 	17700 7850 17700 8300
 Connection ~ 17450 8300
+$Comp
+L +3.3V #PWR?
+U 1 1 5B628364
+P 17900 6750
+F 0 "#PWR?" H 17900 6600 50  0001 C CNN
+F 1 "+3.3V" H 17900 6890 50  0000 C CNN
+F 2 "" H 17900 6750 50  0001 C CNN
+F 3 "" H 17900 6750 50  0001 C CNN
+	1    17900 6750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	17900 6750 17900 6850
+Wire Wire Line
+	17900 6800 17650 6800
+Wire Wire Line
+	17650 6800 17650 7550
+Wire Wire Line
+	17650 7550 18000 7550
+Connection ~ 17900 6800
+Text GLabel 19400 7250 2    60   Output ~ 0
+LEDA
+Text GLabel 19400 7350 2    60   Output ~ 0
+LEDB
+Text GLabel 19400 7550 2    60   Output ~ 0
+TPIN+
+Text GLabel 19400 7650 2    60   Output ~ 0
+TPIN-
+Text GLabel 19400 7850 2    60   Output ~ 0
+TPOUT+
+Text GLabel 19400 7950 2    60   Output ~ 0
+TPOUT-
+Wire Wire Line
+	19400 7250 19300 7250
+Wire Wire Line
+	19400 7350 19300 7350
+Wire Wire Line
+	19400 7550 19300 7550
+Wire Wire Line
+	19400 7650 19300 7650
+Wire Wire Line
+	19400 7850 19300 7850
+Wire Wire Line
+	19400 7950 19300 7950
+Text GLabel 19900 8350 2    60   Output ~ 0
+MISO
+Text GLabel 19900 8250 2    60   Input ~ 0
+MOSI
+Text GLabel 19900 8150 2    60   Input ~ 0
+SCLK
 $EndSCHEMATC

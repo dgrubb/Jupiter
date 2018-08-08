@@ -1,4 +1,4 @@
-update=Tue 31 Jul 2018 04:25:25 PM CDT
+update=Wed 08 Aug 2018 11:34:33 AM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -65,3 +65,4 @@ LibName33=custom-parts/libraries/enc28j60
 LibName34=custom-parts/libraries/cy7c65632
 LibName35=custom-parts/libraries/503182-1852
 LibName36=custom-parts/libraries/MP2149
+LibName37=custom-parts/libraries/10029449-001RLF

@@ -38,6 +38,7 @@ IC that is on its own SPI bus.
 
 5. **Built in retro-style controller port**: I'm a fan of the Atari Jaguar's controller 
 and feel it's a good fit for playing retro games. Jupiter shall include an integarted 
-[Jaguar-USB-tap](https://github.com/dgrubb/Jaguar-USB-tap).
+[Jaguar-USB-tap](https://github.com/dgrubb/Jaguar-USB-tap). A DB9 port will also be included 
+to allow Sega Mega Drive controllers to be used.
 
 

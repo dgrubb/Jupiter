@@ -2701,17 +2701,17 @@ Connection ~ 19650 3400
 $Comp
 L 10029449-001RLF P?
 U 1 1 5B6B6B8C
-P 8850 6750
-F 0 "P?" H 8650 7752 50  0000 L BNN
-F 1 "10029449-001RLF" H 8650 5678 50  0000 L BNN
-F 2 "FCI_10029449-001RLF" H 8850 6750 50  0001 L BNN
-F 3 "10029449-001RLF" H 8850 6750 50  0001 L BNN
-F 4 "None" H 8850 6750 50  0001 L BNN "Field4"
-F 5 "https://www.digikey.com/product-detail/en/amphenol-fci/10029449-001RLF/609-1010-1-ND/1002823?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" H 8850 6750 50  0001 L BNN "Field5"
-F 6 "609-1010-1-ND" H 8850 6750 50  0001 L BNN "Field6"
-F 7 "Amphenol" H 8850 6750 50  0001 L BNN "Field7"
-F 8 "Conn HDMI RCP 19 POS 0.5mm Solder RA SMD 19 Terminal 1 Port T/R" H 8850 6750 50  0001 L BNN "Field8"
-	1    8850 6750
+P 10750 6650
+F 0 "P?" H 10550 7652 50  0000 L BNN
+F 1 "10029449-001RLF" H 10550 5578 50  0000 L BNN
+F 2 "FCI_10029449-001RLF" H 10750 6650 50  0001 L BNN
+F 3 "10029449-001RLF" H 10750 6650 50  0001 L BNN
+F 4 "None" H 10750 6650 50  0001 L BNN "Field4"
+F 5 "https://www.digikey.com/product-detail/en/amphenol-fci/10029449-001RLF/609-1010-1-ND/1002823?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" H 10750 6650 50  0001 L BNN "Field5"
+F 6 "609-1010-1-ND" H 10750 6650 50  0001 L BNN "Field6"
+F 7 "Amphenol" H 10750 6650 50  0001 L BNN "Field7"
+F 8 "Conn HDMI RCP 19 POS 0.5mm Solder RA SMD 19 Terminal 1 Port T/R" H 10750 6650 50  0001 L BNN "Field8"
+	1    10750 6650
 	1    0    0    -1  
 $EndComp
 $Comp

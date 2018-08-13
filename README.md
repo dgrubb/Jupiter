@@ -8,10 +8,16 @@ the [Compute Module](https://www.raspberrypi.org/products/compute-module-3/) whi
 allows somebody to design a system around the same SoC core as in the regular 
 Raspberry Pi and so have access to the same software support.
 
+Jupiter, dubbed so after the codename for the Sega Saturn, shall be a single-board 
+computer designed around the Compute Module.
+
+## Preview
+
+![Jupiter preview](./preview/Jupiter-schematic-preview.png)
+
 ## Design goals
 
-Jupiter, dubbed so after the codename for the Sega Saturn, shall be a single-board 
-computer designed around the Compute Module which will address the following design goals: 
+Jupiter will seek to address the following design goals: 
 
 1. **USB ports**: The USB ports on a standard Raspberry Pi are dependent on current 
 drawn through an internal regulator, restricting the amount of current all devices 

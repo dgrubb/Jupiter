@@ -1,4 +1,4 @@
-update=Thu 09 Aug 2018 12:21:34 PM CDT
+update=Tue 14 Aug 2018 12:22:57 PM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -67,3 +67,4 @@ LibName35=custom-parts/libraries/503182-1852
 LibName36=custom-parts/libraries/MP2149
 LibName37=custom-parts/libraries/10029449-001RLF
 LibName38=custom-parts/libraries/tpd12s521dbtr
+LibName39=switches

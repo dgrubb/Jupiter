@@ -1,4 +1,4 @@
-update=Tue 14 Aug 2018 12:22:57 PM CDT
+update=Thu 16 Aug 2018 10:46:10 AM CDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -68,3 +68,13 @@ LibName36=custom-parts/libraries/MP2149
 LibName37=custom-parts/libraries/10029449-001RLF
 LibName38=custom-parts/libraries/tpd12s521dbtr
 LibName39=switches
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=../../preview/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

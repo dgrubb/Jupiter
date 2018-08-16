@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 10029449-001RLF)(type Legacy)(uri "$(KIPRJMOD)/custom-parts/footprints/10029449-001RLF.mod")(options "")(descr ""))
+  (lib (name footprints)(type KiCad)(uri "$(KIPRJMOD)/custom-parts/footprints")(options "")(descr ""))
+)
